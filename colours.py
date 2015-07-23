@@ -8,7 +8,7 @@ class plot_colours(object):
         self.pink = '#FF33CC'
         self.turquoise = '#3399FF'
         self.lightgreen = '#99CC99'
-        self.green = '#00CC66'
+        self.green = '#009933'
         self.maroon = '#CC0066'
         self.purple = '#9933FF'
         self.red = '#CC0000'
